@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Victory-Song.ogg-c97bc65925226b88a56f8a0fbe353358.oggstr"
+
+[deps]
+
+source_file="res://Background Music/Victory-Song.ogg"
+dest_files=[ "res://.import/Victory-Song.ogg-c97bc65925226b88a56f8a0fbe353358.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
