@@ -1,2 +1,2 @@
 # E13-Final-Project
-This is a final project. The theme is the end of the world. 
+This is a final project. This was a group project. I downloaded music for the scenes. 
