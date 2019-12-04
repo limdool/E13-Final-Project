@@ -1,7 +1,7 @@
 extends KinematicBody2D
 
 const MOVE_SPEED = 300
-var enemy = 6;
+var enemy = 20;
 onready var raycast = $RayCast2D
 
 func _ready():
