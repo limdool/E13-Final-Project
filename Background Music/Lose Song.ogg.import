@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Lose Song.ogg-8532449dd44c329b9d72664cb4ff13f0.oggstr"
+
+[deps]
+
+source_file="res://Background Music/Lose Song.ogg"
+dest_files=[ "res://.import/Lose Song.ogg-8532449dd44c329b9d72664cb4ff13f0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
